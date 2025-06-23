@@ -1,0 +1,1 @@
+# WAJP to print and count all the palindrome number elements from array.

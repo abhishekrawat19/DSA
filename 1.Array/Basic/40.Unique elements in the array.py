@@ -1,0 +1,1 @@
+# WAJP to print each element of the array which has appeared only once/Unique elements in the array.

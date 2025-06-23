@@ -1,0 +1,1 @@
+# WAJP to print each element of the array which has appeared more than once/which has duplicate values in the array.

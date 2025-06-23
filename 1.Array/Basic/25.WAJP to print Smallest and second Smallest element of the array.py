@@ -1,0 +1,1 @@
+# WAJP to print Smallest and second Smallest element of the array

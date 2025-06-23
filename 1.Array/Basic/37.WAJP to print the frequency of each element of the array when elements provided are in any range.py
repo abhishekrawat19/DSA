@@ -1,0 +1,1 @@
+# WAJP to print the frequency of each element of the array when elements provided are in any range.

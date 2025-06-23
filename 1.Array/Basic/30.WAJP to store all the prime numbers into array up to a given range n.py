@@ -1,0 +1,1 @@
+# WAJP to store all the prime numbers into array up to a given range n.

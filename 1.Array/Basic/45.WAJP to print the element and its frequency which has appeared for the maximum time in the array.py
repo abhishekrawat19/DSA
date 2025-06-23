@@ -1,0 +1,1 @@
+# WAJP to print the element and its frequency which has appeared for the maximum time in the array.

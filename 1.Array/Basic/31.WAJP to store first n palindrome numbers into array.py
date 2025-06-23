@@ -1,0 +1,1 @@
+# WAJP to store first n palindrome numbers into array.

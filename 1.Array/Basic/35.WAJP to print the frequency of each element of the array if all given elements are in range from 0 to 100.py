@@ -1,0 +1,1 @@
+# WAJP to print the frequency of each element of the array if all given elements are in range from 0 to 100.

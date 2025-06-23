@@ -1,0 +1,1 @@
+# WAJP the shift all 0’s to left and all 1’s to the right(Without Sorting).

@@ -1,0 +1,1 @@
+# WAJP to print true if all the elements in the array are unique otherwise false

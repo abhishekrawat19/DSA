@@ -1,0 +1,1 @@
+# WAJP to store all the palindrome numbers into array up to a given range n.

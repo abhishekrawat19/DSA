@@ -1,0 +1,1 @@
+# WAJP to print each element of the array exactly once if all given elements are in range from 0 to 100.

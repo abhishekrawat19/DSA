@@ -1,0 +1,1 @@
+# WAJP to print all the elements of array whose frequency are even.

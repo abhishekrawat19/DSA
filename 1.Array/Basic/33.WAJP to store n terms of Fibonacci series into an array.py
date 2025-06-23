@@ -1,0 +1,1 @@
+# WAJP to store n terms of Fibonacci series into an array.
