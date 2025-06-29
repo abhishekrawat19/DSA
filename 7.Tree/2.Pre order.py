@@ -17,7 +17,7 @@ class TreeNode:
 
 
 class Solution:
-    ans = []
+    # ans = []
 
     def preorder(self, root):
         if root is None:
