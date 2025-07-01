@@ -28,7 +28,7 @@ class Queue:
 
     def pop(self):
         if self.front == None:
-            print("empty dumbo")
+           # print("empty dumbo")
             return -1
         
         else:
