@@ -12,7 +12,6 @@ def shortestPath(n,edges,s):
         w=edge[2]
 
         adjlist[x].append([y,w])
-        adjlist[y].append([x,w])
     heap=[]
     dist=[float("inf")]*n
 
