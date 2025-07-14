@@ -8,7 +8,6 @@ def quick_sort(arr,start,end):
 
     return arr
 
-
 def partition(arr,start,end):
     pivot=arr[start]
     i=start
@@ -26,10 +25,14 @@ def partition(arr,start,end):
             temp=arr[i]
             arr[i]=arr[j]
             arr[j]=temp
-
     
-    arr[start],arr[j]=arr[j],arr[start]    
+    arr[start],arr[j]=arr[j],arr[start]  
     return j
+
 
 arr = [4, 2, 7, 1, 9, 3]
 print(quick_sort(arr, 0, len(arr)-1))
+
+'''
+Quick Sort is the based to the Divide and Conquer 
+'''
